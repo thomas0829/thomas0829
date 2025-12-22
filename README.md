@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I’m Thomas.
 
-<!--
-**thomas0829/thomas0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a robotics and embodied AI engineer based in Seattle.
 
-Here are some ideas to get you started:
+I work on systems that connect real robots, simulation, and large-scale evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my time goes into building pipelines — data collection, robot control, simulation, and distributed backends.
+
+If something is hard to evaluate or scale, I usually end up building the system for it.
+
+My main tools are Python, C++, ROS2, Isaac Sim, and PyTorch.
+I also spend a lot of time with Docker, Celery, and Redis.
+
+I’ve got a few pinned projects, including
+[Seattle-Source-Ranker](https://github.com/thomas0829/Seattle-Source-Ranker),
+along with several robotics pipeline projects.
+
+Outside of open source, I work on embodied AI research with real robots and simulations.
+
+If you’re interested in robotics, embodied AI, or systems work, feel free to reach out.
