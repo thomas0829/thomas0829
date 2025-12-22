@@ -1,20 +1,13 @@
-Hey, I’m Thomas.
+Hi, I’m Thomas. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg0LmMdpTrvaVbKFuqekjuQHf6MLaCTfKHg&s" width="20" />
 
-I’m a robotics and embodied AI engineer based in Seattle.
+I build software, robotics systems, and automation pipelines.
 
-I work on systems that connect real robots, simulation, and large-scale evaluation.
+I focus on projects that solve real problems through clean, reusable code and reliable systems.
 
-Most of my time goes into building pipelines — data collection, robot control, simulation, and distributed backends.
+My notable projects include the **Seattle Source Ranker (SSR)** — a tool for ranking sources and scoring results across platforms — available here: https://github.com/thomas0829/Seattle-Source-Ranker
 
-If something is hard to evaluate or scale, I usually end up building the system for it.
+I also maintain a robotics and automation pipeline project that ties together perception, planning, and execution for real-world workflows.
 
-My main tools are Python, C++, ROS2, Isaac Sim, and PyTorch.
-I also spend a lot of time with Docker, Celery, and Redis.
+I work primarily with Python, C++, ROS, and distributed systems. I am always improving how things are built, tested, and deployed.
 
-I’ve got a few pinned projects, including
-[Seattle-Source-Ranker](https://github.com/thomas0829/Seattle-Source-Ranker),
-along with several robotics pipeline projects.
-
-Outside of open source, I work on embodied AI research with real robots and simulations.
-
-If you’re interested in robotics, embodied AI, or systems work, feel free to reach out.
+Feel free to browse my pinned repositories to see how I approach engineering challenges.
