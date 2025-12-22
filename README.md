@@ -1,4 +1,4 @@
-Hi, I’m Thomas. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg0LmMdpTrvaVbKFuqekjuQHf6MLaCTfKHg&s" width="20" />
+Hi, I’m Thomas. <img src=https://github.com/user-attachments/assets/bd794dbd-1dc8-498f-bda2-1921adcda1cd width="20" />
 
 I build software, robotics systems, and automation pipelines.
 
