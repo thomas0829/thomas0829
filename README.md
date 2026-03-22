@@ -1,13 +1,15 @@
-Hi, I’m Thomas. <img src=https://github.com/user-attachments/assets/bd794dbd-1dc8-498f-bda2-1921adcda1cd width="20" />
+Hi, I'm Thomas. <img src=https://github.com/user-attachments/assets/bd794dbd-1dc8-498f-bda2-1921adcda1cd width="20" />
 
-I build software, robotics systems, and automation pipelines.
+M.S. in ECE @ University of Washington | Embodied AI · Robotics · Software Engineering
 
-I focus on projects that solve real problems through clean, reusable code and reliable systems.
+🌐 **[thomas0829.github.io](https://thomas0829.github.io)**
 
-My notable projects include the **Seattle Source Ranker (SSR)** — a tool for ranking sources and scoring results across platforms — available here: https://github.com/thomas0829/Seattle-Source-Ranker
+I build software, robotics systems, and automation pipelines. I focus on projects that solve real problems through clean, reusable code and reliable systems.
 
-I also maintain a robotics and automation pipeline project that ties together perception, planning, and execution for real-world workflows.
+I collaborate with the [PRIOR team at Ai2](https://prior.allenai.org/) on real-world robotics learning and evaluation infrastructure, working hands-on with platforms like Franka FR3, SO-100/SO-101, YAM, and ALOHA VX300S. I've fine-tuned and deployed policies including π₀, π₀.₅, ACT, SmolVLA, and Diffusion Policy on real hardware.
 
-I work primarily with Python, C++, ROS, and distributed systems. I am always improving how things are built, tested, and deployed.
+My notable projects include **[Seattle Source Ranker (SSR)](https://github.com/thomas0829/Seattle-Source-Ranker)** — a distributed pipeline spanning 400K+ repositories with a React interface for instant filtering and tiered scoring.
+
+I work primarily with Python, C++, ROS2, PyTorch, and distributed systems. I am always improving how things are built, tested, and deployed.
 
 Feel free to browse my pinned repositories to see how I approach engineering challenges.
