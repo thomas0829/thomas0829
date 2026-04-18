@@ -11,5 +11,3 @@ I collaborate with the [PRIOR team at Ai2](https://prior.allenai.org/) on real-w
 My notable projects include **[Seattle Source Ranker (SSR)](https://github.com/thomas0829/Seattle-Source-Ranker)** — a distributed pipeline spanning 400K+ repositories with a React interface for instant filtering and tiered scoring.
 
 I work primarily with Python, C++, ROS2, PyTorch, and distributed systems. I am always improving how things are built, tested, and deployed.
-
-Feel free to browse my pinned repositories to see how I approach engineering challenges.
